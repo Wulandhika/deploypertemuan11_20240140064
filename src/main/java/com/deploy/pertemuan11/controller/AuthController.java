@@ -32,3 +32,5 @@ public class AuthController {
         return "login";
     }
 }
+
+// NEW
