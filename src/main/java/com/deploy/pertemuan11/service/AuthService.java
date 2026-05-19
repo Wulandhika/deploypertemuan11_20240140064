@@ -46,3 +46,5 @@ public class AuthService {
                 .orElseThrow(() -> new RuntimeException("User tidak ditemukan"));
     }
 }
+
+//NEW
