@@ -9,3 +9,5 @@ public class RegisterRequest {
     private String nama;
     private String alamat;
 }
+
+// NEW
