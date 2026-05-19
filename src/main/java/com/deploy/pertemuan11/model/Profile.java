@@ -20,3 +20,5 @@ public class Profile {
     @OneToOne
     private User user;
 }
+
+// NEW
